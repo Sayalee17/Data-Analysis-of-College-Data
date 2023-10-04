@@ -10,9 +10,11 @@ Furthermore, we analyze the college graduation rates in United States colleges a
 
 1. Data Collection: Gathered data from Kaggle that include information about college graduation rates, full-time enrollment figures, and institutional characteristics. Ensured that the dataset is clean and properly structured for analysis.
 
-2. Exploratory Data Preprocessing: Performed data cleaning to address missing values, outliers, and inconsistencies. Prepared the dataset for analysis by merging and structuring it appropriately.
+2. Data Preprocessing: Performed data cleaning to address missing values, outliers, and inconsistencies. Prepared the dataset for analysis by merging and structuring it appropriately.
 
-3. Data Analysis: Conducted exploratory data analysis (EDA) to gain a deeper understanding of the dataset and identify any initial trends or patterns. Created visualizations, such as scatterplots and histograms, to visualize the data distribution and relationships between variables.
+<img width="854" alt="image" src="https://github.com/Sayalee17/Data-Analysis-of-College-Data/assets/138333099/594acbc6-98f8-48b2-b6d1-66263b9cb0ea">
+
+3. Exploratory Data Analysis: Conducted exploratory data analysis (EDA) to gain a deeper understanding of the dataset and identify any initial trends or patterns. Created visualizations, such as scatterplots and histograms, to visualize the data distribution and relationships between variables.
 
 4. Hypothesis Formulation: Formulate two main hypotheses -
 
@@ -25,6 +27,8 @@ Furthermore, we analyze the college graduation rates in United States colleges a
 7. Interpretation of Results: Analyzed the statistical findings to draw meaningful conclusions. Explained the implications of the results in the context of college graduation rates and institutional type (public vs. private).
 
 8. Visualization and Reporting: Created clear and informative data visualizations that highlight important trends and relationships. Prepared a comprehensive report or presentation summarizing the project's objectives, methods, findings, and conclusions.
+
+<img width="850" alt="image" src="https://github.com/Sayalee17/Data-Analysis-of-College-Data/assets/138333099/5e0bbf18-aee7-43e9-b7e0-b114746af1e1">
 
 9. Recommendations: Encourage private institutions with larger full-time enrollments to continue their successful practices that contribute to higher graduation rates, while also considering targeted support for smaller private and public schools to improve their retention strategies.
 
